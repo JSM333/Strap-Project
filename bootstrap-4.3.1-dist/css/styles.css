@@ -1,0 +1,11 @@
+html, body {
+    color: lightslategrey;
+    height: 100%;
+    width: 100%;
+}
+.jumbotron {
+    background-color: lightgreen !important;
+}
+.card {
+    background-color: lightgrey;
+}
